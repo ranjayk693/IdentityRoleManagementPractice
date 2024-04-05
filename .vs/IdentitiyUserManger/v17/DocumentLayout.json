@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\entity\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\entity\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\migrations\\20240405062900_new-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\migrations\\20240405062900_new-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|c:\\users\\admin\\desktop\\asp.net\\identitiyusermanger\\identitiyusermanger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF33F41D-2385-4543-B1A1-28E205D5007A}|IdentitiyUserManger\\IdentitiyUserManger.csproj|solutionrelative:identitiyusermanger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\WeatherForecast.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:11:22.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240405062900_new-migration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Migrations\\20240405062900_new-migration.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Migrations\\20240405062900_new-migration.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Migrations\\20240405062900_new-migration.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Migrations\\20240405062900_new-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:29:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:42:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\Login.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Controllers\\Login.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\Login.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Controllers\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:09:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SigninModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Entity\\SigninModel.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Entity\\SigninModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Entity\\SigninModel.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Entity\\SigninModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:46:23.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:41:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Program.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Program.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:47:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Data\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\ApplicationRole.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Data\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:41:12.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:41:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\Data\\DataContext.cs",
+              "RelativeToolTip": "IdentitiyUserManger\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:38:00.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentitiyUserManger\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Asp.Net\\IdentitiyUserManger\\IdentitiyUserManger\\appsettings.json",
+              "RelativeToolTip": "IdentitiyUserManger\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T07:36:16.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
